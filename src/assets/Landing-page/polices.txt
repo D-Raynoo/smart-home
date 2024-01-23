@@ -1,0 +1,71 @@
+.Sub {
+  font-size: 112.554px;
+  font-family: "Audiowide";
+  color: rgb(255, 255, 255);
+  line-height: 0.934;
+  text-align: left;
+  -moz-transform: matrix( 0.92171092087805,0,0,0.92171092087805,0,0);
+  -webkit-transform: matrix( 0.92171092087805,0,0,0.92171092087805,0,0);
+  -ms-transform: matrix( 0.92171092087805,0,0,0.92171092087805,0,0);
+  position: absolute;
+  left: 184.025px;
+  top: 375.049px;
+  z-index: 196;
+}
+.Title {
+  font-size: 12px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 4.863132318,0,0,4.863132318,0,0);
+  -webkit-transform: matrix( 4.863132318,0,0,4.863132318,0,0);
+  -ms-transform: matrix( 4.863132318,0,0,4.863132318,0,0);
+  position: absolute;
+  left: 316.833px;
+  top: 495.3px;
+  z-index: 197;
+}
+.Body_Text {
+  font-size: 46px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.57392972970658,0,0,0.57392972970658,0,0);
+  -webkit-transform: matrix( 0.57392972970658,0,0,0.57392972970658,0,0);
+  -ms-transform: matrix( 0.57392972970658,0,0,0.57392972970658,0,0);
+  position: absolute;
+  left: -20.526px;
+  top: 540.138px;
+  width: 765.928px;
+  height: 96.875px;
+  z-index: 195;
+}
+.NavBar {
+  font-size: 88px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  line-height: 1.001;
+  text-align: right;
+  -moz-transform: matrix( 0.24970725890954,0,0,0.24850228297347,0,0);
+  -webkit-transform: matrix( 0.24970725890954,0,0,0.24850228297347,0,0);
+  -ms-transform: matrix( 0.24970725890954,0,0,0.24850228297347,0,0);
+  position: absolute;
+  left: -474.982px;
+  top: 129.825px;
+  z-index: 194;
+}
+.Body_Text {
+  font-size: 58.333px;
+  font-family: "Montserrat";
+  color: rgb(255, 255, 255);
+  line-height: 1.341;
+  -moz-transform: matrix( 0.47312303590864,3.62877453778222e-16,0,0.47312303590864,0,0);
+  -webkit-transform: matrix( 0.47312303590864,3.62877453778222e-16,0,0.47312303590864,0,0);
+  -ms-transform: matrix( 0.47312303590864,3.62877453778222e-16,0,0.47312303590864,0,0);
+  position: absolute;
+  left: 164.064px;
+  top: 653.888px;
+  z-index: 190;
+}

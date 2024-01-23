@@ -1,0 +1,27 @@
+.Rounded_Rectangle {
+  border-radius: 36px;
+  background-image: -moz-linear-gradient( 90deg, rgb(174,0,133) 0%, rgba(255,255,255,0.2) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(174,0,133) 0%, rgba(255,255,255,0.2) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(174,0,133) 0%, rgba(255,255,255,0.2) 100%);
+  box-shadow: 0px 15px 50px 0px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  left: -130px;
+  top: 6827px;
+  width: 1703px;
+  height: 691px;
+  z-index: 36;
+}
+.Rounded_Rectangle {
+  border-radius: 15px;
+  background-image: -moz-linear-gradient( -91deg, rgb(127,0,152) 0%, rgba(255,255,255,0.2) 100%);
+  background-image: -webkit-linear-gradient( -91deg, rgb(127,0,152) 0%, rgba(255,255,255,0.2) 100%);
+  background-image: -ms-linear-gradient( -91deg, rgb(127,0,152) 0%, rgba(255,255,255,0.2) 100%);
+  box-shadow: 0px 15px 50px 0px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  left: 103px;
+  top: 2596px;
+  width: 342px;
+  height: 598px;
+  z-index: 109;
+}
+
